@@ -19,6 +19,7 @@ The system retrieves the most relevant news articles based on a user query using
 ## 📁 Dataset
 
 The dataset used is: `Articles.csv`
+⚠️ Data Link: The dataset file Articles.csv can be accessed here: [ https://drive.google.com/drive/folders/1XzaX8-8CWVxO63riDgxWQugjB4l2urov?usp=sharing ]
 
 **Required fields in the dataset:**
 
@@ -195,5 +196,6 @@ MSCS Information Retrieval & Text Mining — IR Project
 ---
 
 ## 📝 License
+
 
 This project is created for educational purposes as part of an Information Retrieval course assignment.
